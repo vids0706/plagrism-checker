@@ -1,0 +1,35 @@
+/* General Reset */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Login Page Styling */
+.login-page {
+    background: linear-gradient(to right, #43cea2, #185a9d);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Dashboard Pages Styling */
+.dashboard-page {
+    background: #f4f6f9;
+    min-height: 100vh;
+    padding-top: 20px;
+}
+
+/* Card Styling */
+.card {
+    border-radius: 10px;
+}
+
+/* Login Box */
+.login-box {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    width: 350px;
+}
